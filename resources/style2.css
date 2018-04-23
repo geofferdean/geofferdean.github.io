@@ -60,7 +60,7 @@ span {
 .row{
 	/* padding-top: 2.5rem; */
 	width: 100%;
-	 /* margin-left: 2rem; */ */
+	/* margin-top: 2em; */ */ */
 }
 .grid{
 	display: flex;
@@ -195,6 +195,10 @@ nav a:hover{
 }
 .contact:hover{
 	color: #5FA211!important;
+}
+.contact h4{
+	font-family: "crimson text";
+	margin-bottom: 0!important;
 }
 /*hero*/
 .container img{
@@ -412,9 +416,13 @@ nav a:hover{
 /* contact */
 #contact{
 	background-color: rgba(65,117,5, 0.5);
-	height: 47rem;
+	height: 52rem;
 	padding-top:2.5rem;
 
+}
+.banner_contact{
+	display: flex;
+	/* padding: 0 20em; */
 }
 .banner_contact h1{
 color: rgba(250,250,250,0.8);
@@ -427,6 +435,7 @@ font-size: 2.4rem;
 	text-align: left;
 	width: 100%;
 	font-size: 2.4rem;
+	font-family: "windsor";
 	/* margin-bottom: 2rem; */
 }
 .banner_contact h3{
@@ -436,6 +445,7 @@ font-size: 2.4rem;
 	/* margin: 0 auto; */
 	margin-bottom: 2rem;
 	width: 100%;
+	font-family: "crimson text";
 }
 .banner_contact h3:hover{
 	text-decoration: underline;
@@ -449,16 +459,35 @@ h4{
 	margin: auto 0;
 
 }
-.resume h2, .resume h3{
+ .resume1 h2, .resume1 h3, .resume1 h4{
 	text-align: center!important;
 }
-.resume img{
-	margin-right: 5rem!important;
+.resume1 img{
+	margin: 4em auto;
+	height: 50em!important;
 }
-.links{
-	margin-top: 1.5rem;
+.resume1{
+	width: 50%!important;
+	border: 1px solid red;
+}
+.resume1 h4{
+	font-family: "crimson text";
+	margin-bottom: 0;
+}
 
+.links2 {
+	width: 50%;
+	border: 1px solid red;
 }
+.row{
+	/* border: 1px solid red; */
+	margin-left: 1.5rem;
+	display: flex;
+}
+
+
+
+
 .spacer_contact{
 	width: 100%;
 	background-color: rgba(65,117,5, 0.5);
@@ -486,11 +515,7 @@ object:hover{
 .banner{
 	width: 100%;
 }
-.banner img{
-	margin: 1rem 3rem;
-	height: 35rem;
 
-} */
 .second h2, .third h2, .fourth h2{
 	padding: 0;
 	font-size: 2rem;
@@ -639,6 +664,10 @@ p{
 	margin: 0!important;
 
 }
+.slide_3 h3{
+	margin-bottom: 0!important;
+	margin-top: 1rem!important;
+}
 
 .wild_child{
 	margin: 0;
@@ -651,12 +680,15 @@ p{
 .rose img{
 	height: 20rem;
 	padding: 0;
-	margin-top: 0;
+	margin-bottom:1rem;
 	position: relative;
 
 	transform: scale(1);
 	transition: 0.2s ease;
 
+}
+.rose h3{
+	margin-bottom: 1rem!important;
 }
 .rose img:hover{
 	transform: scale(1.5) translateY(10%);
@@ -666,7 +698,7 @@ p{
 .rose_2 img{
 	height: 34rem;
 	padding: 0;
-	margin-top: 0;
+	margin-top: 1em!important;
 	position: relative;
 	transform: scale(1);
 	transition: 0.2s ease;
@@ -676,7 +708,11 @@ p{
 	transform: scale(1.2) ;
 	transition: 0.2s ease;
 }
+.rose_2 h3{
+	margin-top: 0!important;
+}
 .infog img{
+	margin-top: 1rem!important;
 	height: 10rem;
 	transform: scale(1);
 	transition: 0.2s ease;
@@ -701,21 +737,26 @@ p{
 	height: 20rem;
 	transform: scale(1);
 	transition: 0.2s ease;
+	margin-top: 2em!important;
 }
 .bubble_nest_2 img:hover{
 	transform: scale(1.3);
 	transition: 0.2s ease;
+}
+.bubble_nest_2 h3{
+
 }
 .bubble_nest_2 h4{
 	color: black;
 	width: 100%;
 	font-size: 1.4rem;
 	text-align: center;
+	margin-top: 1em;
 }
 
 .supp img{
 	height: 9rem;
-	margin: auto 2rem;
+	margin: 0.5em 2em!important;
 	transform: scale(1);
 	transition: 0.2s ease;
 }
@@ -727,7 +768,7 @@ p{
 	display: inline-flex;
 	justify-content: center;
 	align-items: center;
-
+	margin: 0!important;
 	padding-top: 0!important;
 }
 .radial img{
@@ -828,6 +869,7 @@ p{
 }
 .gallery h4{
 	color: black;
+	margin-bottom: 0!important;
 }
 .gallery p{
 	color: black;
@@ -839,6 +881,15 @@ p{
 	height: 40%;
 	width: auto;
 
+}
+.row_2{
+	width: 100%;
+	display: flex;
+	margin-top: 1.4em;
+	/* margin-left: 1.4em; */
+}
+.row_2 h3{
+	/* margin-bottom: 0!important; */
 }
 
 /* .hovertitle{
