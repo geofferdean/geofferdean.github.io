@@ -1,0 +1,102 @@
+
+
+html{
+	font-size: 10px;
+}
+body{
+	font-family: "windsor";
+
+	background-color: #E1EDEE;
+}
+.navbar-brand{
+	color:#E1EDEE!important;
+	font-size: 30pt;
+	font-family: "Futura";
+	font-weight: bold;
+	text-align: center;
+	margin: 15px;
+	position: relative;
+	padding:
+
+
+}
+.navbar-light .navbar-nav .nav-link{
+	color:#E1EDEE;
+	position: fixed;
+}
+
+ nav{
+
+	width: 100vw;
+	font-size: 36px;
+	position: fixed;
+	top: 0;
+	padding: 0 !important;
+}
+
+nav img{
+width: 7.5rem;
+
+}
+
+
+nav a{
+	display: flex;
+	color: #C1C9CC;
+	margin: 20px;
+}
+nav ul{
+	margin-right: 100px;
+}
+.fixed-top{
+	width: 100%;
+
+}
+
+.container-fluid {
+	width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	margin-top: 150px;
+}
+.container-fluid img{
+	width: 100%;
+}
+.hero{
+	background-image: url("https://lh3.googleusercontent.com/42ZSIYi7LTJ0OfBSxTGEjDGOVZbe8c0q59Q0mVsGQR2NTary1ZWIGpyeqtXFcjrQRrxA61TgH8v6xsGCL-g3N0RuBHF0RZywG4MfpB6nL1eXZpaDL7qJQJjPLKQUkAqpqn4L94Ax0Q=w2400");
+	height: 1440px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 1000px;
+}
+
+.banner{
+	height: 40rem;
+	color: white;
+	opacity: 0.75;
+	width: 100%;
+}
+
+.hero-content{
+	width: 30%;
+	background-color: white;
+	opacity: 0.75;
+	height: auto;
+
+
+}
+.hero-content p{
+	font-family: "windsor";
+	font-size: 48px;
+	margin: 25px;
+}
+.content{
+	width: 100%;
+}
+.content h1{
+	font-family: 'futura';
+	color: #E1EDEE;
+	text-align: center;
+	font-size: 64px;
+}

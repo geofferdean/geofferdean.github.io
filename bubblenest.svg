@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2217px" height="2217px" viewBox="0 0 2217 2217" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 70 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-70-Copy">
+            <circle id="TOTAL-ON-BOARD" fill="#16434B" cx="1108.5" cy="1108.5" r="1108.5"></circle>
+            <g id="Group-69" transform="translate(280.000000, 96.000000)">
+                <g id="Group-68">
+                    <text id="Type-something" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.3564816" fill="#E3F9F4">
+                        <tspan x="1178" y="424">Type something</tspan>
+                    </text>
+                    <text id="CREW" font-family="Futura-Bold, Futura" font-size="72" font-weight="bold" letter-spacing="-0.962500036" fill="#E3F9F4">
+                        <tspan x="0" y="1137">CREW</tspan>
+                    </text>
+                    <g id="Group-55" transform="translate(8.000000, 1012.000000)">
+                        <circle id="total" fill="#E3F9F4" cx="454" cy="537" r="454"></circle>
+                        <circle id="total" fill="#51CDFA" cx="454.5" cy="548.5" r="442.5"></circle>
+                        <circle id="survived" fill="#AAFFB0" cx="405" cy="204" r="96"></circle>
+                        <text id="SURVIVED" font-family="Futura-Bold, Futura" font-size="24" font-weight="bold" letter-spacing="-0.8555556" fill="#16434B">
+                            <tspan x="343" y="210">SURVIVED</tspan>
+                        </text>
+                        <circle id="died" fill="#0D4E7F" cx="454.5" cy="644.5" r="346.5"></circle>
+                        <circle id="total" fill="#81D7F6" cx="567.5" cy="109.5" r="11.5"></circle>
+                        <circle id="survived" fill="#AAFFB0" cx="568" cy="108" r="10"></circle>
+                        <circle id="died" fill="#0D4E7F" cx="566.5" cy="119.5" r="1.5"></circle>
+                        <text id="WOMEN" font-family="Futura-Bold, Futura" font-size="48" font-weight="bold" letter-spacing="-0.8555556" fill="#E3F9F4">
+                            <tspan x="308" y="50">WOMEN</tspan>
+                        </text>
+                        <path d="M528.5,44.5 L553.5,90.5" id="Line-2" stroke="#51CDFA" stroke-width="10" stroke-linecap="square"></path>
+                        <text id="PERISHED" font-family="Futura-Bold, Futura" font-size="48" font-weight="bold" letter-spacing="-0.855555594" fill="#E3F9F4">
+                            <tspan x="338" y="657">PERISHED</tspan>
+                        </text>
+                        <text id="MEN" font-family="Futura-Bold, Futura" font-size="64" font-weight="bold" letter-spacing="-0.8555556" fill="#16434B">
+                            <tspan x="541" y="280">MEN</tspan>
+                        </text>
+                    </g>
+                    <g id="Group-56" transform="translate(464.000000, 0.000000)">
+                        <circle id="total" fill="#E3F9F4" cx="654.5" cy="654.5" r="654.5"></circle>
+                        <text id="WOMEN" font-family="Futura-Bold, Futura" font-size="24" font-weight="bold" letter-spacing="-0.1960649" fill="#16434B">
+                            <tspan x="752" y="65">WOMEN</tspan>
+                        </text>
+                        <text id="FIRST-CLASS" font-family="Futura-Bold, Futura" font-size="48" font-weight="bold" letter-spacing="-0.8555556" fill="#16434B">
+                            <tspan x="604.010889" y="121">FIRST</tspan>
+                            <tspan x="591.362889" y="183">CLASS</tspan>
+                        </text>
+                        <circle id="3rd-class" fill="#3CB4CB" cx="520.5" cy="926.5" r="354.5"></circle>
+                        <ellipse id="total" fill="#51CDFA" transform="translate(518.245789, 818.404531) rotate(-58.000000) translate(-518.245789, -818.404531) " cx="518.245789" cy="818.404531" rx="246.5" ry="246.001012"></ellipse>
+                        <text id="MEN" font-family="Futura-Bold, Futura" font-size="30" font-weight="bold" letter-spacing="-0.534722269" fill="#E3F9F4">
+                            <tspan x="395" y="637">MEN</tspan>
+                        </text>
+                        <ellipse id="survived" fill="#AAFFB0" transform="translate(345.609400, 700.633549) rotate(-58.000000) translate(-345.609400, -700.633549) " cx="345.6094" cy="700.633549" rx="37.5" ry="37.4240891"></ellipse>
+                        <ellipse id="died" fill="#0D4E7F" transform="translate(550.636389, 837.770982) rotate(-58.000000) translate(-550.636389, -837.770982) " cx="550.636389" cy="837.770982" rx="209" ry="208.576923"></ellipse>
+                        <g id="Group-5" transform="translate(519.835763, 1172.835763) rotate(85.000000) translate(-519.835763, -1172.835763) translate(377.835763, 1030.835763)">
+                            <circle id="total" fill="#A672D4" transform="translate(142.000000, 142.000000) rotate(23.000000) translate(-142.000000, -142.000000) " cx="142" cy="142" r="108"></circle>
+                            <circle id="women-died" fill="#0D4E7F" cx="123" cy="191" r="55"></circle>
+                            <circle id="women-survived" fill="#AAFFB0" cx="160" cy="89" r="53"></circle>
+                        </g>
+                        <text id="PERISHED" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.356481552" fill="#E3F9F4">
+                            <tspan x="419" y="1165">PERISHED</tspan>
+                        </text>
+                        <text id="WOMEN" font-family="Futura-Bold, Futura" font-size="48" font-weight="bold" letter-spacing="-0.8555556" fill="#E3F9F4">
+                            <tspan x="532" y="1126">WOMEN</tspan>
+                        </text>
+                        <text id="PERISHED" font-family="Futura-Bold, Futura" font-size="48" font-weight="bold" letter-spacing="-0.8555556" fill="#E3F9F4">
+                            <tspan x="459" y="854">PERISHED</tspan>
+                        </text>
+                        <circle id="total" fill="#3CB4CB" cx="680.5" cy="448.5" r="138.5"></circle>
+                        <circle id="total" fill="#A672D4" cx="615" cy="504" r="53"></circle>
+                        <circle id="survived" fill="#AAFFB0" cx="610" cy="507" r="47"></circle>
+                        <circle id="died" fill="#0D4E7F" cx="661" cy="493" r="6"></circle>
+                        <circle id="total" fill="#51CDFA" cx="721.5" cy="414.5" r="85.5"></circle>
+                        <text id="PERISHED" font-family="Futura-Bold, Futura" font-size="9" font-weight="bold" letter-spacing="-0.3564816" fill="#DEFAF4">
+                            <tspan x="658" y="506">PERISHED</tspan>
+                        </text>
+                        <circle id="survived" fill="#AAFFB0" cx="724.5" cy="487.5" r="12.5"></circle>
+                        <circle id="died" fill="#0D4E7F" cx="720" cy="402" r="73"></circle>
+                        <text id="PERISHED" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.3564816" fill="#E3F9F4">
+                            <tspan x="672" y="406">PERISHED</tspan>
+                        </text>
+                        <circle id="1ST-CLASS" fill="#3CB4CB" transform="translate(901.082482, 228.082482) rotate(132.000000) translate(-901.082482, -228.082482) " cx="901.082482" cy="228.082482" r="161.5"></circle>
+                        <circle id="total" fill="#51CDFA" transform="translate(954.398651, 276.398651) rotate(132.000000) translate(-954.398651, -276.398651) " cx="954.398651" cy="276.398651" r="89.5"></circle>
+                        <text id="MEN" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.3564816" fill="#E3F9F4">
+                            <tspan x="983" y="307">MEN</tspan>
+                        </text>
+                        <circle id="died" fill="#0D4E7F" transform="translate(949.324250, 247.324250) rotate(132.000000) translate(-949.324250, -247.324250) " cx="949.32425" cy="247.32425" r="59"></circle>
+                        <circle id="survived" fill="#AAFFB0" transform="translate(964.074401, 335.074401) rotate(132.000000) translate(-964.074401, -335.074401) " cx="964.074401" cy="335.074401" r="30.5"></circle>
+                        <text id="PERISHED" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.3564816" fill="#E3F9F4">
+                            <tspan x="898" y="253">PERISHED</tspan>
+                        </text>
+                        <circle id="total" fill="#A672D4" transform="translate(834.683831, 168.683831) rotate(132.000000) translate(-834.683831, -168.683831) " cx="834.683831" cy="168.683831" r="72"></circle>
+                        <circle id="survived" fill="#AAFFB0" transform="translate(836.555220, 168.555220) rotate(308.000000) translate(-836.555220, -168.555220) " cx="836.55522" cy="168.55522" r="69.5"></circle>
+                        <circle id="died" fill="#0D4E7F" transform="translate(767.530689, 149.530689) rotate(132.000000) translate(-767.530689, -149.530689) " cx="767.530689" cy="149.530689" r="2.5"></circle>
+                        <text id="PASSENGERS" font-family="Futura-Bold, Futura" font-size="72" font-weight="bold" letter-spacing="-0.962500036" fill="#16434B">
+                            <tspan x="41" y="527">PASSENGERS</tspan>
+                        </text>
+                        <text id="WOMEN" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.3564816" fill="#E3F9F4">
+                            <tspan x="648" y="555">WOMEN</tspan>
+                        </text>
+                        <text id="MEN" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.3564816" fill="#E3F9F4">
+                            <tspan x="753" y="492">MEN</tspan>
+                        </text>
+                        <text id="SURVIVED" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.3564816" fill="#16434B">
+                            <tspan x="784" y="174">SURVIVED</tspan>
+                        </text>
+                        <text id="SURVIVED-Copy" font-family="Futura-Bold, Futura" font-size="11" font-weight="bold" letter-spacing="-0.196064889" fill="#16434B">
+                            <tspan x="934" y="341">SURVIVED</tspan>
+                        </text>
+                        <text id="SURVIVED" font-family="Futura-Bold, Futura" font-size="17" font-weight="bold" letter-spacing="-0.3564816" fill="#16434B">
+                            <tspan x="565" y="514">SURVIVED</tspan>
+                        </text>
+                        <text id="SURVIVED-Copy-39" font-family="Futura-Bold, Futura" font-size="14" font-weight="bold" letter-spacing="-0.249537125" fill="#16434B">
+                            <tspan x="308" y="705">SURVIVED</tspan>
+                        </text>
+                        <text id="SURVIVED-Copy-40" font-family="Futura-Bold, Futura" font-size="20" font-weight="bold" letter-spacing="-0.3564816" fill="#16434B">
+                            <tspan x="520" y="1194">SURVIVED</tspan>
+                        </text>
+                        <text id="SURVIVED-Copy-4" font-family="Futura-Bold, Futura" font-size="4" font-weight="bold" letter-spacing="-0.0712963194" fill="#16434B">
+                            <tspan x="714" y="489">SURVIVED</tspan>
+                        </text>
+                        <text id="THIRD-CLASS" font-family="Futura-Bold, Futura" font-size="48" font-weight="bold" letter-spacing="-0.8555556" fill="#16434B">
+                            <tspan x="910.954889" y="965">THIRD</tspan>
+                            <tspan x="908.362889" y="1027">CLASS</tspan>
+                        </text>
+                        <text id="SECOND-CLASS" font-family="Futura-Bold, Futura" font-size="48" font-weight="bold" letter-spacing="-0.8555556" fill="#16434B">
+                            <tspan x="814.182667" y="555">SECOND</tspan>
+                            <tspan x="842.362889" y="617">CLASS</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
