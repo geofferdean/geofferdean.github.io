@@ -111,7 +111,7 @@ span {
 
 body{
 	font-size: 10px;
-	font-family: "windsorregular";
+	font-family: 'windsorregular';
 	background-color: #3290A3;
 	position: relative;
 
@@ -230,7 +230,7 @@ nav a:hover{
 
 
 .parallax{
-	background-image: url('../cassady-hero-real.png');
+	background-image: url('https://lh3.googleusercontent.com/zvgsE0K0nWu6WeYWJkrY5-OUoinbYGqR11YYsUCqDzvrSpxkaiKmwcDs2G2QCgU1BoQoLeFpLkmwSqSXsPTOcIxbZgf9n_O6RULC8lYHyjpOh1knDzXMvmxE7po5rnVmFMu1ZrvC6g=w2400');
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
@@ -438,7 +438,7 @@ font-size: 2.4rem;
 	text-align: left;
 	width: 100%;
 	font-size: 2.4rem;
-	font-family: "windsorregular";
+	font-family: 'windsorregular';
 	font-weight: 400;
 
 	/* margin-bottom: 2rem; */
@@ -586,7 +586,7 @@ object:hover{
 	padding: 0;
 	font-size: 2rem;
 	text-align: center;
-	font-family: "windsorregular";
+	font-family: 'windsorregular';
 }
 
 /* carousel stuff */
